@@ -46,3 +46,10 @@ query
 .env
 .env.local
 .env.*.local
+
+*.tsbuildinfo
+temp.html
+test-*.js
+testDashboard.js
+testPhase*.js
+
